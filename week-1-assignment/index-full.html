@@ -1,0 +1,49 @@
+<!doctype html>
+
+<head>
+  <style>
+    body {
+      margin: 0;
+      background-color: black;
+    }
+    .first-line {
+      font-family: Arial;
+      color: red;
+      background: black;
+      padding: 20px;
+    }
+    .second-line {
+      font-family: Times New Roman;
+      color: white;
+      background: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .second-line:hover {
+      background: black;
+    }
+    .second-line:active {
+      background: white;
+    }
+    .extra-padding {
+      padding: 1160px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="first-line">
+    
+  </div>
+
+  <div class="second-line">
+    Full
+  </div>
+
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+  <script>
+    $('.second-line').click(function () {
+      $(this).toggleClass('extra-padding');
+    });
+  </script>
+</body>
