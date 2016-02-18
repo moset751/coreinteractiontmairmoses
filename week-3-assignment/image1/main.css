@@ -1,0 +1,63 @@
+div {
+  
+  height: 100px;
+  width: 100px;
+  
+}
+
+#div1 {
+  
+  background-color: rgb(12, 143, 122);
+  position: absolute;
+top: 22px;
+  left: 22px;
+  z-index: 3;
+}
+
+#div2 {
+  
+  background-color: rgb(21, 185, 255);
+  border-radius: 100px;
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 50%;
+  left: 50%;
+  margin-top: -45px;
+  margin-left: -45px;
+
+  
+}
+
+#div3 {
+
+background-color: rgb(36, 246, 163);
+width: 100px;
+height: 100px;
+  position: absolute;
+top: 15px;
+  left: 15px;
+
+
+
+
+
+
+
+}
+
+
+
+
+#div4 {
+
+background-color: rgb(21, 185, 255);
+width: 100px;
+height: 100px;
+
+
+
+
+
+
+}

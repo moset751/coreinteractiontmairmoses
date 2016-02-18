@@ -1,0 +1,106 @@
+div {
+  
+  height: 100px;
+  width: 100px;
+  
+}
+
+#square1 {
+  
+  height: 200px;
+  width: 200px;
+  background-color: rgb(138, 83, 70);
+  position: fixed;
+
+}
+
+#dot1 {
+  
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  background-color: rgb(154, 113, 220);
+  margin: 5px;
+  position: fixed;
+  top: 75px;
+
+
+   
+
+  
+}
+
+#square2 {
+  
+  background-color: rgb(138, 83, 70);
+  height: 200px;
+  width: 200px;
+  background-color: rgb(138, 83, 70);
+  position: fixed;
+  left:250px;
+
+}
+
+
+#dot2 {
+  
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  background-color: rgb(154, 113, 220);
+  margin: 5px;
+  position: fixed;
+  top: 145px;
+  left:390px;
+
+
+  }
+
+
+  #square3 {
+  
+  background-color: rgb(138, 83, 70);
+  height: 200px;
+  width: 200px;
+  position: fixed;
+  left:500px;
+
+}
+
+#dot3 {
+  
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  background-color: rgb(154, 113, 220);
+  margin: 5px;
+  position: fixed;
+  top: 80px;
+  left:570px;
+
+
+  }
+
+  #square4 {
+  
+  background-color: rgb(138, 83, 70);
+  height: 200px;
+  width: 200px;
+  position: fixed;
+  left:750px;
+
+}
+
+#dot4 {
+  
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  background-color: rgb(154, 113, 220);
+  margin: 5px;
+  position: fixed;
+  top:10px;
+  left:890px;
+
+
+  }

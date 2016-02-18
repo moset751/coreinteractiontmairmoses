@@ -1,0 +1,48 @@
+div {
+  
+  height: 1000;
+  width: 1000px;
+  background-color: white
+  
+}
+
+#square1 {
+  
+  height: 2000px;
+  width: 200px;
+  background-color: pink;
+  position: absolute;
+  left: 1355px;
+
+
+}
+
+#square2 {
+  
+  height: 80px;
+  width: 180px;
+  background-color: rgb(0, 255, 0);
+  left:10px;
+  top:1880px;
+  position: relative;
+  position: center;
+
+
+}
+
+#dot3 {
+  
+  height: 40px;
+  width: 50px;
+  border-radius: 100%;
+  background-color: blue;
+  left:70px;
+  top:1899px;
+  position: absolute;
+  
+
+
+}
+
+
+
