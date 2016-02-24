@@ -1,0 +1,11 @@
+
+
+.square {
+
+	background-color: lightblue;
+	left:0px;
+	top: 0px;
+	bottom: 0px;
+	width: 400px;
+	position: fixed;
+}

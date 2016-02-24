@@ -1,0 +1,81 @@
+
+
+
+
+
+.cube {
+
+height:  100px;
+width: 300px;
+background-color: lightblue;
+margin: 3px;
+
+
+
+
+
+
+}
+
+.small-cube {
+position: relative;
+background-color: lightblue;
+width:300px;
+height: 100px;
+margin: 3px;
+left:15px;
+position: relative;
+
+
+
+}
+
+.small-cube1 {
+position: relative;
+background-color: lightblue;
+width:300px;
+height: 100px;
+margin: 3px;
+top:30px;
+position: relative
+
+
+
+}
+
+.small-cube2 {
+position: relative;
+left:15px;
+background-color: lightblue;
+width:300px;
+height: 100px;
+margin: 3px;
+top:-90px;
+
+
+
+}
+
+.small-cube3 {
+position: relative;
+background-color: lightblue;
+width:300px;
+height: 100px;
+margin: 3px;
+
+
+
+}
+
+.small-cube4 {
+position: relative;
+background-color: lightblue;
+width:300px;
+height: 100px;
+margin: 3px;
+left: 15px;
+top:-120px;
+
+
+
+}

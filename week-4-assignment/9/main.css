@@ -1,0 +1,28 @@
+
+
+
+
+
+.cube {
+
+height:  300px;
+width: 300px;
+background-color: blue;
+
+}
+
+.small-cube {
+margin-left: 5px;
+margin-top: 5px;
+background-color: pink;
+width:60px;
+height: 60px;
+display: inline-block;
+
+
+}
+
+
+
+
+

@@ -1,0 +1,25 @@
+
+
+
+
+
+.cube {
+
+height:  300px;
+width: 300px;
+background-color: blue;
+position: relative;
+
+}
+
+.small-cube {
+
+position: absolute;
+right:0;
+background-color: pink;
+width:30px;
+height: 30px;
+
+
+}
+
